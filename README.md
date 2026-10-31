@@ -6,7 +6,6 @@ Customer churn is one of the most critical challenges for subscription-based bus
 
 This project uses Machine Learning and Explainable AI to predict customer churn and identify customers at high risk of leaving a service. The solution helps businesses take proactive retention actions and improve customer lifetime value.
 
----
 
 ## Business Problem
 
