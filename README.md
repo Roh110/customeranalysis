@@ -41,8 +41,6 @@ The model is trained using a Telco Customer Churn Dataset containing customer de
 * 1 = Customer likely to leave
 * 0 = Customer likely to stay
 
----
-
 ## Data Preprocessing
 
 The dataset was prepared using a Scikit-Learn preprocessing pipeline.
